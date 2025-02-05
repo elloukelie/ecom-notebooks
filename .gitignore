@@ -2,3 +2,4 @@
 !46-47-48 Class Exercises - Evaluating Regression, Polynomial Regression, Normalizer, RidgeCV.ipynb
 *.joblib
 !Class Exercise 49 - LassoCV.ipynb
+!Polynomial Regression with L1 Regularization.ipynb
