@@ -3,4 +3,5 @@
 *.joblib
 !Class Exercise 49 - LassoCV.ipynb
 !Polynomial Regression with L1 Regularization.ipynb
+!Logistic Regression - Slide 51.ipynb
 .ipynb_checkpoints/
