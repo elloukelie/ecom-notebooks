@@ -9,4 +9,5 @@
 !Slide 56, 57 - Decision Tree, Random Forest.ipynb
 !K-Mean Clustering - Slide 58.ipynb
 !K-Mean Clustering - Image Quantization.ipynb
-.ipynb_checkpoints/
+!Hierarchical Clustering.ipynb
+.ipynb_checkpoints/*
