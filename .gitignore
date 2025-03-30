@@ -1,4 +1,7 @@
 *.ipynb
+(1).ipynb_checkpoint
+*.ipynb_checkpoints
+*.vscode
 !46-47-48 Class Exercises - Evaluating Regression, Polynomial Regression, Normalizer, RidgeCV.ipynb
 *.joblib
 !Class Exercise 49 - LassoCV.ipynb
