@@ -1,3 +1,5 @@
+datasets/*
+*.jpg
 *:Zone.Identifier
 *.ipynb
 (1).ipynb_checkpoint
@@ -18,4 +20,5 @@
 !PCA - Slide 61.ipynb
 !Artificial Neural Network - Slide 62.ipynb
 !K - Mean Clustering - Home Exercise.ipynb
+!Convolutional Neural Network - Slide 63.ipynb
 .ipynb_checkpoints/*
